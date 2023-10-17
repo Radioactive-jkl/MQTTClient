@@ -14,8 +14,8 @@ Radioactive *`V1.0`*
 
 ## Background
 
-* 临近考试周前，用3天水了一个比赛[*`China Collegiate Computing Contest/Network Technology Challenge/B-EP2`*](http://net.c4best.cn/)
-* 然后想把其中**物联网客户端**的代码丢出来，~~其实就是Qt例程小改了一下~~。
+* 临近考试周前，3天水了一个比赛[*`China Collegiate Computing Contest/Network Technology Challenge/B-EP2`*](http://net.c4best.cn/)（那段时间太忙了😭）
+* 然后想把其中**物联网客户端**的代码丢出来，~~其实就是Qt例程小改了一下，当时没时间继续做UI美化~~。主要就是打通了阿里云物联网服务器的数据上下行，体现可行性。
   
 ##### Files
 ```
